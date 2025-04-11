@@ -1,0 +1,10 @@
+streamlit
+PyPDF2
+docx2txt
+requests
+deep-translator
+reportlab
+python-docx
+pypandoc
+googletrans==4.0.0-rc1
+python-dotenv
